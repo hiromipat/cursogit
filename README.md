@@ -1,0 +1,2 @@
+# cursogit
+repositorio de practicas
